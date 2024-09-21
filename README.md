@@ -9,5 +9,5 @@ Solve Laila's Diet using Dynamic Programming &amp; Divide and Conquer concepts.
   
 - Technologies Testing: HackerRank.
   
-- Course: Algorithm (First, 2023).
+
   
